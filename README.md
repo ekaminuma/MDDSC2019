@@ -61,7 +61,8 @@ Linuxの基本コマンドを、Google Colabクラウド環境で実習する。
 
 ## OPD
 本実習では、学習用データ素材としてのオープンデータの利用方法と課題を学ぶ。公共サイトやGoogle Dataset Searchからのデータ収集、オープンデータの特徴を理解する。事例として電子カルテ（糖尿病）のオープンデータを解析する。
-※糖尿病電子カルテ分析の教材は、ROISデータサイエンス共同利用基盤施設[公募共同研究032R2019](https://ds.rois.ac.jp/article/2019_rois-ds-joint_result/)により支援を受けました。
+
+*※謝辞：糖尿病電子カルテのデータ分析教材は、ROISデータサイエンス共同利用基盤施設[公募共同研究032R2019](https://ds.rois.ac.jp/article/2019_rois-ds-joint_result/)として支援を受けました。*
 
 <kbd><img src="EK_19_OPD.png" border="1" align="middle" width="480" /></kbd>
 
