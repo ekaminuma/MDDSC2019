@@ -32,6 +32,8 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 ##目次一覧
 
 ## LINUX
+Linuxの基本コマンドを、Google Colabクラウド環境で実習する。本実習では、ファイル操作やシェルスクリプトの実行方法を学ぶ。またゲノムワイド関連解析用（遺伝子型・表現型）データをクラウド環境へダウンロードして、コマンド操作を行う。 
+
  <img src="EK_19_LINUX.png" border="1" align="middle" width="480" />
  
 ## NGS1
