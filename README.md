@@ -31,7 +31,7 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 ##目次一覧
 
 ## LINUX
- <img src="EK_19_LINUX.PNG" border="1" align="middle" width="480" />
+ <img src="EK_19_LINUX.png" border="1" align="middle" width="480" />
  
 ## NGS1
  <img src="EK_19_NGS1.PNG" border="1" align="middle" width="480" />
