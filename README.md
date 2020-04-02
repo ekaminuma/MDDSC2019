@@ -37,21 +37,28 @@ Linuxの基本コマンドを、Google Colabクラウド環境で実習する。
  <img src="EK_19_LINUX.png" border="1" align="middle" width="480" />
  
 ## NGS1
+次世代シーケンサー（Next Generation Sequencer：NGS）配列解析の基礎を学ぶ。NGS装置の種類と特徴、配列の品質管理、Sequence Read Archive、ゲノム配列変異注釈、微生物叢解析を扱う。実習ではGoogle Colabに専用ソフトをダウンロードしNGS配列を解析する。
+
  <img src="EK_19_NGS1.png" border="1" align="middle" width="480" />
  
 ## NGS2
  <img src="EK_19_NGS2.png" border="1" align="middle" width="480" />
  
 ## DNN1
+深層ニューラルネットワークの基礎技術をプログラミング実習で学ぶ。ネットワーク構造、活性化関数、学習方法の種類、損失関数、最適化、誤差逆伝播法、前処理、畳み込み処理、プーリング処理、重み可視化、学習データセットと学習済モデル、GPU等を学ぶ。
+
  <img src="EK_19_DNN1.png" border="1" align="middle" width="480" />
  
 ## DNN2
  <img src="EK_19_DNN2.png" border="1" align="middle" width="480" />
  
 ## OPD
+本実習では、学習用データ素材としてのオープンデータの利用方法と課題を学ぶ。公共サイトやGoogle Dataset Searchからのデータ収集、オープンデータの特徴を理解する。事例として電子カルテ（糖尿病）のオープンデータを解析する。
  <img src="EK_19_OPD.png" border="1" align="middle" width="480" />
  
 ## IoT1
+IoT機器の通信規格・セキュリティを概説する。初回実習は本学M&Dタワー外に設置の温湿度センサーから時系列データを取得（常時可、予約不要）、地理位置情報（地上IoT、 衛星IoT)と合わせて解析する。二回目の実習では、AIエッジ端末（予約貸出）を動かし、遅延等課題を体験する。 
+
  <img src="EK_19_IoT1.png" border="1" align="middle" width="480" />
  
 ## IoT2
