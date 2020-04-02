@@ -34,22 +34,22 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
  <img src="EK_19_LINUX.png" border="1" align="middle" width="480" />
  
 ## NGS1
- <img src="EK_19_NGS1.PNG" border="1" align="middle" width="480" />
+ <img src="EK_19_NGS1.png" border="1" align="middle" width="480" />
  
 ## NGS2
- <img src="EK_19_NGS2.PNG" border="1" align="middle" width="480" />
+ <img src="EK_19_NGS2.png" border="1" align="middle" width="480" />
  
 ## DNN1
- <img src="EK_19_DNN1.PNG" border="1" align="middle" width="480" />
+ <img src="EK_19_DNN1.png" border="1" align="middle" width="480" />
  
 ## DNN2
- <img src="EK_19_DNN2.PNG" border="1" align="middle" width="480" />
+ <img src="EK_19_DNN2.png" border="1" align="middle" width="480" />
  
 ## OPD
- <img src="EK_19_OPD.PNG" border="1" align="middle" width="480" />
+ <img src="EK_19_OPD.png" border="1" align="middle" width="480" />
  
 ## IoT1
- <img src="EK_19_IOT1.PNG" border="1" align="middle" width="480" />
+ <img src="EK_19_IOT1.png" border="1" align="middle" width="480" />
  
 ## IoT2
- <img src="EK_19_IOT2.PNG" border="1" align="middle" width="480" />
+ <img src="EK_19_IOT2.png" border="1" align="middle" width="480" />
