@@ -7,7 +7,7 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 - **[3] NGS解析入門　第2回**  [[目次](#NGS2)]
 - **[4] 深層学習の基礎技術　第1回** [[目次](#DNN1)]
 - **[5] 深層学習の基礎技術　第2回** [[目次](#DNN2)]
-- **[4] オープンデータ入門** [[目次](#OPD)]
+- **[4] オープンデータ入門** [[目次](#OPD),  [Google Colab](diabetes_opendata.ipynb)]
 - **[5] IoT時系列解析　第1回** [[目次](#IoT1)]
 - **[6] IoT時系列解析　第2回** [[目次](#IoT2)]
 - **[7] 2019年度 Amazon Web Service機械学習PBLセミナー アイデアソン　2019.11.7** [[開催報告](http://md-dsc.com/events/20191128event.php)、[スライド当日手順](EK_AWSPBL191128.pdf)]
