@@ -24,6 +24,7 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
    + 何度でも投稿可能
    + テスト投稿時に、結果が登録したe-mail addressに送信される。
    + テスト結果である点数表示と共に「間違えた問題のヒント」が提示される。忠実に実行すれば、正解に辿り着ける程度のヒントを作成した。
+   
   <kbd><img src="EK_BASIC_TEST.PNG" border="1" align="middle" width="480" /></kbd>
    
 
