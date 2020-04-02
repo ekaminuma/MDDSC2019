@@ -13,7 +13,7 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 - **[7] 2019年度 Amazon Web Service機械学習PBLセミナー アイデアソン　2019.11.7** [[開催報告](http://md-dsc.com/events/20191128event.php)、[スライド当日手順](EK_AWSPBL191128.pdf)]
 - **[8] 第2回MDDSC機械学習コンペティション2020.1.20** [[開催報告](http://md-dsc.com/events/20200120event.php)、 [スライド審査手続き](EK_MLCOMP200120.pdf)]
 - **[9] 実習支援　[Blockchain入門の実習補足資料](https://github.com/ekaminuma/BCLOG191213) 2019.12.13**
-- **[10] 基礎編修了テスト 
+- **[10] 基礎編修了テスト **
 
 ---
 ## 基礎編修了テスト
