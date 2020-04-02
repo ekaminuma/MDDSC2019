@@ -49,7 +49,7 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
  <img src="EK_19_OPD.png" border="1" align="middle" width="480" />
  
 ## IoT1
- <img src="EK_19_IOT1.png" border="1" align="middle" width="480" />
+ <img src="EK_19_IoT1.png" border="1" align="middle" width="480" />
  
 ## IoT2
- <img src="EK_19_IOT2.png" border="1" align="middle" width="480" />
+ <img src="EK_19_IoT2.png" border="1" align="middle" width="480" />
