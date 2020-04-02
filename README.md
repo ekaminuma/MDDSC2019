@@ -11,7 +11,7 @@ e-Learningシステム掲載のビデオ映像, MS Powerpointスライド, Googl
 - **[5] IoT時系列解析　第1回
 - **[6] IoT時系列解析　第2回
 - **[7] 2019年度 Amazon Web Service機械学習PBLセミナー アイデアソン　2019.11.7** [[開催報告](http://md-dsc.com/events/20191128event.php)、[スライド](EK_AWSPBL191128.pdf)]
-- **[8] 第2回MDDSC機械学習コンペティション2020.1.20** [[開催報告](http://md-dsc.com/events/20200120event.php)、 [紹介スライド](MDDSC_MLコンペ紹介181228.pdf)]
+- **[8] 第2回MDDSC機械学習コンペティション2020.1.20** [[開催報告](http://md-dsc.com/events/20200120event.php)、 [スライド審査手続き](EK_MLCOMP200120.pdf)]
 - **[9] 実習支援　Blockchain入門
 
 ---
